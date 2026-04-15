@@ -42,7 +42,7 @@ CREATE TABLE `autor` (
 
 INSERT INTO `autor` (`id`, `nombre`, `apellido`, `fecha_nac`, `biografia`, `foto`) VALUES
 (1, 'Paulo', 'Coelho', '1947-08-24', 'Paulo Coelho de Souza es un novelista, dramaturgo y letrista brasileño después de varios años dedicado a la poesía. Es uno de los escritores y novelistas más leídos del mundo, con más de 320 millones de libros vendidos en más de 170 países, traducidos a 88 lenguas.', 'https://www.zendalibros.com/deja-de-odiar-a-paulo-coelho/'),
-(2, 'Isabel', 'Allende', '1942-08-02', '', '');
+(2, 'Isabel', 'Allende', '1942-08-02', 'Isabel Angélica Allende Llona ​ es una escritora chilena. Desde 2004 es miembro de la Academia Estadounidense de las Artes y las Letras.​ Obtuvo el Premio Nacional de Literatura de Chile en 2010.', 'https://www.aarp.org/espanol/entretenimiento/musica-cultura/info-2018/isabel-allende-escritora-maestra-filantropa.html');
 
 -- --------------------------------------------------------
 
